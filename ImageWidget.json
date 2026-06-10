@@ -1,6 +1,6 @@
 {
     "id": "com.arnavchoudhary.sap.imagewidget",
-    "version": "1.0.0",
+    "version": "1.8.6",
     "name": "Image Widget",
     "description": "The Image Widget is a custom widget that allows you to display an image from a URL in your SAP application.",
     "newInstancePrefix": "ImageWidget",
