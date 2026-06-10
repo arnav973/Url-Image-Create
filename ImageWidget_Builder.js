@@ -130,7 +130,7 @@
 
     }
     customElements.define(
-        "com-rohitchouhan-sap-imagewidget-builder",
+        "com-arnavchoudhary-sap-imagewidget-builder",
         ImageWidgetBuilderPanel
     );
 })();
