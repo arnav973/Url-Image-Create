@@ -1,24 +1,24 @@
 {
-    "id": "com.rohitchouhan.sap.imagewidget",
+    "id": "com.arnavchoudhary.sap.imagewidget",
     "version": "1.0.0",
     "name": "Image Widget",
     "description": "The Image Widget is a custom widget that allows you to display an image from a URL in your SAP application.",
     "newInstancePrefix": "ImageWidget",
-    "vendor": "Rohit Chouhan",
+    "vendor": "Arnav Choudhary",
     "eula": "",
     "license": "MIT",
-    "icon": "https:\/\/raw.githubusercontent.com\/SAP-Custom-Widget\/ImageWidget\/main\/icon.png",
+    "icon": "https://arnav973.github.io/Url-Image-Create/icon.png",
     "webcomponents": [
         {
             "kind": "main",
-            "tag": "com-arnav-sap-imagewidget",
+            "tag": "com-arnavchoudhary-sap-imagewidget",
             "url": "https://arnav973.github.io/Url-Image-Create/ImageWidget.js",
             "integrity": "",
             "ignoreIntegrity": true
         },
         {
             "kind": "builder",
-            "tag": "com-arnav-sap-imagewidget-builder",
+            "tag": "com-arnavchoudhary-sap-imagewidget-builder",
             "url": "https://arnav973.github.io/Url-Image-Create/ImageWidget_Builder.js",
             "integrity": "",
             "ignoreIntegrity": true
