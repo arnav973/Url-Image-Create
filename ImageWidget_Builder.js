@@ -78,7 +78,7 @@
     </table>
     <input value="Update Image" type="submit">
     <br>
-    <p>Developed by <a target="_blank" href="www.linkedin.com/in/arnav-choudhary22">Arnav Choudhary</a></p>
+    <p>Developed by <a target="_blank" href="https://www.linkedin.com/in/arnav-choudhary22/">Arnav Choudhary</a></p>
 </form>
 `;
     class ImageWidgetBuilderPanel extends HTMLElement {
