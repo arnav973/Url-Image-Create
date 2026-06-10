@@ -11,15 +11,15 @@
     "webcomponents": [
         {
             "kind": "main",
-            "tag": "com-rohitchouhan-sap-imagewidget",
-            "url": "https:\/\/cdn.jsdelivr.net\/gh\/SAP-Custom-Widget\/ImageWidget@1.0.0\/ImageWidget.js",
+            "tag": "com-arnav-sap-imagewidget",
+            "url": "https://arnav973.github.io/Url-Image-Create/ImageWidget.js",
             "integrity": "",
             "ignoreIntegrity": true
         },
         {
             "kind": "builder",
-            "tag": "com-rohitchouhan-sap-imagewidget-builder",
-            "url": "https:\/\/cdn.jsdelivr.net\/gh\/SAP-Custom-Widget\/ImageWidget@1.0.0\/ImageWidget_Builder.js",
+            "tag": "com-arnav-sap-imagewidget-builder",
+            "url": "https://arnav973.github.io/Url-Image-Create/ImageWidget_Builder.js",
             "integrity": "",
             "ignoreIntegrity": true
         }
