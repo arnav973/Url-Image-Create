@@ -43,6 +43,6 @@
       }
     }
   
-    customElements.define("com-rohitchouhan-sap-imagewidget", ImageWidget);
+    customElements.define("com-arnavchoudhary-sap-imagewidget", ImageWidget);
   })();
   
